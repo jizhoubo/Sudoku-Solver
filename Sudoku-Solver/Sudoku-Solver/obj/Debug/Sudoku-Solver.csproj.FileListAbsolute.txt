@@ -1,0 +1,5 @@
+D:\Sudoku-Solver\Sudoku-Solver\Sudoku-Solver\bin\Debug\Sudoku-Solver.exe
+D:\Sudoku-Solver\Sudoku-Solver\Sudoku-Solver\bin\Debug\Sudoku-Solver.pdb
+D:\Sudoku-Solver\Sudoku-Solver\Sudoku-Solver\obj\Debug\ResolveAssemblyReference.cache
+D:\Sudoku-Solver\Sudoku-Solver\Sudoku-Solver\obj\Debug\Sudoku-Solver.exe
+D:\Sudoku-Solver\Sudoku-Solver\Sudoku-Solver\obj\Debug\Sudoku-Solver.pdb
